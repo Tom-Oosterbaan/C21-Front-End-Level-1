@@ -1,0 +1,18 @@
+
+h1{
+    font-style: oblique;
+    color: blue;
+
+}
+
+p{
+    font-style: inherit;
+    color: tomato;
+
+}
+
+.mijnAfbeelding{
+    width: 100px;
+    height: 100px;
+
+}
